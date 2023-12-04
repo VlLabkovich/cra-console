@@ -18,6 +18,7 @@ function App() {
         >
           <p>Lorem ipsum dolor</p>
           Learn React
+          <p>Lorem ipsum dolor</p>
         </a>
       </header>
     </div>
