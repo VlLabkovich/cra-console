@@ -3,26 +3,14 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <p>Lorem ipsum dolor</p>
-          Learn React
-          <p>Lorem ipsum dolor</p>
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div>
+          <div>
+            <div>App</div>
+            <div>Dev branch commit 1</div>
+          </div>
+        </div>
+    );
 }
 
 export default App;
